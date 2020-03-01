@@ -1,0 +1,11 @@
+C:\Users\sunsh\Documents\Login role\Login role\bin\hotelbooking.dll.config
+C:\Users\sunsh\Documents\Login role\Login role\bin\hotelbooking.dll
+C:\Users\sunsh\Documents\Login role\Login role\bin\hotelbooking.pdb
+C:\Users\sunsh\Documents\Login role\Login role\obj\Debug\VanDinhTamHUYNH-HotelBooking.csprojResolveAssemblyReference.cache
+C:\Users\sunsh\Documents\Login role\Login role\obj\Debug\hotelbooking.dll
+C:\Users\sunsh\Documents\Login role\Login role\obj\Debug\hotelbooking.pdb
+D:\Exercise\MrVu\CSharp\HotelBooking\Login role\bin\hotelbooking.dll
+D:\Exercise\MrVu\CSharp\HotelBooking\Login role\bin\hotelbooking.pdb
+D:\Exercise\MrVu\CSharp\HotelBooking\Login role\obj\Debug\VanDinhTamHUYNH-HotelBooking.csprojResolveAssemblyReference.cache
+D:\Exercise\MrVu\CSharp\HotelBooking\Login role\obj\Debug\hotelbooking.dll
+D:\Exercise\MrVu\CSharp\HotelBooking\Login role\obj\Debug\hotelbooking.pdb
